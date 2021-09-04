@@ -19,6 +19,7 @@ we achived 97.08% accuracy on training data set. this can aggumented with our fa
 
 **output :- (on test video from youtube)
 https://929687.smushcdn.com/2407837/wp-content/uploads/2020/04/face_mask_detector_plot.png?lossy=1&strip=1&webp=0
++** output :- ![Screenshot (110)](https://user-images.githubusercontent.com/88090830/132086182-1a4578d2-0c38-4362-8de3-92347bc91cef.png)
 
 
 ### Part :- 2
